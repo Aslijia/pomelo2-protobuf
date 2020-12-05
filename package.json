@@ -1,23 +1,23 @@
 {
-  "name": "pomelo2-protobuf",
-  "version": "1.0.0",
-  "description": "",
-  "main": "./lib/protobuf",
-  "directories": {
-    "lib": "lib"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Aslijia/pomelo2-protobuf.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Aslijia/pomelo2-protobuf/issues"
-  },
-  "homepage": "https://github.com/Aslijia/pomelo2-protobuf#readme"
+	"name": "pomelo2-protobuf",
+	"version": "1.0.1",
+	"description": "",
+	"main": "./lib/protobuf",
+	"directories": {
+		"lib": "lib"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Aslijia/pomelo2-protobuf.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Aslijia/pomelo2-protobuf/issues"
+	},
+	"homepage": "https://github.com/Aslijia/pomelo2-protobuf#readme"
 }
